@@ -15,6 +15,8 @@ Category | Problem | Solution
 **Counting Elements** | [Frog River One][04-02] | [100% TS; 100% C; 100% P][04-02-solution]
 **Counting Elements** | [Max Counters][04-03] | [100% TS; 100% C; 100% P][04-03-solution]
 **Counting Elements** | [Missing Integer][04-04] | [100% TS; 100% C; 100% P][04-04-solution]
+**Prefix Sums** | [Passing Cars][05-01] | [100% TS; 100% C; 100% P][05-01-solution]
+**Prefix Sums** | [Count Div][05-02] | [100% TS; 100% C; 100% P][05-02-solution]
 
 
 [01-01]:https://app.codility.com/programmers/lessons/1-iterations/binary_gap/
@@ -43,3 +45,5 @@ Category | Problem | Solution
 
 [05-01]:https://app.codility.com/programmers/lessons/5-prefix_sums/passing_cars/
 [05-01-solution]:05-Prefix-Sums/PassingCars.java
+[05-02]:https://app.codility.com/programmers/lessons/5-prefix_sums/count_div/
+[05-02--solution]:05-Prefix-Sums/CountDiv.java
