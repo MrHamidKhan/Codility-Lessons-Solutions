@@ -1,6 +1,5 @@
 # Codility-Lessons-Solutions
-Solutions for Codility Lessons in Java 7.
-Link: https://app.codility.com/programmers/lessons/; Date: Sep 9, 2018.
+Solutions for [Codility Lessons](https://app.codility.com/programmers/lessons/) in Java 7, as of Sep 9, 2018.
 
 
 ## Problems & Solutions
