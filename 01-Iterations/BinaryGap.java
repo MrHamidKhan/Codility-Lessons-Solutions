@@ -1,3 +1,5 @@
+// Binary Gap: Find max binary gap (of zeros) in a binary format of a given integer
+// https://app.codility.com/programmers/lessons/1-iterations/binary_gap/
 class BinaryGap {
    public int solution(int N) {  
         int zeroCount = 0;
