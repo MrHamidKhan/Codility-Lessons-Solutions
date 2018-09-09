@@ -1,6 +1,6 @@
-// Max Counter: handle N counters based on the elements of an array
+// Max Counters: handle N counters based on the elements of an array
 // https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/
-class Solution {
+class MaxCounters {
     public int[] solution(int N, int[] A) {
         int max = 0;
         int lastIncrease = 0;
