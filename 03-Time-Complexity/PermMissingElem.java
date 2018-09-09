@@ -1,6 +1,6 @@
 // Permutational Array Missing Element: Find the missing integer from an of permutation of N
 // https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/
-class Solution {
+class PermMissingElem {
     public int solution(int[] A) {
         if(A == null || A.length == 0) return 1;
         
