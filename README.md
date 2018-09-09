@@ -37,7 +37,7 @@ Category | Problem | Solution
 [04-02]:https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/
 [04-02-solution]:04-Counting-Elements/FrogRiverOne.java
 [04-03]:https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/
-[04-03-solutions]:04-Counting-Elements/MaxCounters.java
+[04-03-solution]:04-Counting-Elements/MaxCounters.java
 [04-04]:https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/
 [04-04-solution]:04-Counting-Elements/MissingInteger.java
 
