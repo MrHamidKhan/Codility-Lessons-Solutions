@@ -46,4 +46,4 @@ Category | Problem | Solution
 [05-01]:https://app.codility.com/programmers/lessons/5-prefix_sums/passing_cars/
 [05-01-solution]:05-Prefix-Sums/PassingCars.java
 [05-02]:https://app.codility.com/programmers/lessons/5-prefix_sums/count_div/
-[05-02--solution]:05-Prefix-Sums/CountDiv.java
+[05-02-solution]:05-Prefix-Sums/CountDiv.java
