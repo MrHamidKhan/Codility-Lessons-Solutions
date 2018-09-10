@@ -1,6 +1,6 @@
 // Genomic Range Query: find 
 // https://app.codility.com/programmers/lessons/5-prefix_sums/genomic_range_query/
-class Solution {
+class GenomicRangeQuery{
     private static int A = 0,
                        C = 1,
                        G = 2,
