@@ -7,7 +7,7 @@ Category | Problem | Solution
 -------- | ------- | --------
 **Iterations** | [Binary Gap][01-01] | [100% Task Score; 100% Correctness][01-01-solution]
 **Arrays** | [Cyclic Rotation][02-01] | [100% TS; 100% C][02-01-solution]
-| [Odd Occurences In Array][02-02] | [100% TS; 100% C; 100% Performance][02-02-solution]
+--- | [Odd Occurences In Array][02-02] | [100% TS; 100% C; 100% Performance][02-02-solution]
 **Time Complexity** | [Frog Jump][03-01] | [100% TS; 100% C; 100% P][03-01-solution]
 | [Permutation Missing Element][03-02] | [100% TS; 100% C; 100% P][03-02-solution]
 | [Tape Equilibrium][03-03] | [100% TS; 100% C; 100% P][03-03-solution]
