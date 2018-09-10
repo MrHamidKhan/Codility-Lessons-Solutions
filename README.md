@@ -17,6 +17,8 @@ Category | Problem | Solution
 || [Missing Integer][04-04] | [100% TS; 100% C; 100% P][04-04-solution]
 **Prefix Sums** | [Passing Cars][05-01] | [100% TS; 100% C; 100% P][05-01-solution]
 || [Count Div][05-02] | [100% TS; 100% C; 100% P][05-02-solution]
+|| [Genomic Range Query][05-03] | [100% TS; 100% C; 100% P][05-03-solution]
+|| [Min Avg Two Slice][05-04] | [100% TS; 100% C; 100% P][05-04-solution]
 
 
 [01-01]:https://app.codility.com/programmers/lessons/1-iterations/binary_gap/
@@ -47,3 +49,7 @@ Category | Problem | Solution
 [05-01-solution]:05-Prefix-Sums/PassingCars.java
 [05-02]:https://app.codility.com/programmers/lessons/5-prefix_sums/count_div/
 [05-02-solution]:05-Prefix-Sums/CountDiv.java
+[05-03]:https://app.codility.com/programmers/lessons/5-prefix_sums/genomic_range_query/
+[05-03-solution]:05-Prefix-Sums/GenomicRangeQuery.java
+[05-04]:https://app.codility.com/programmers/lessons/5-prefix_sums/min_avg_two_slice/
+[05-04-solution]:05-Prefix-Sums/MinAvgTwoSlice.java
