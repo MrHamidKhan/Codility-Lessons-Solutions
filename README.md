@@ -9,14 +9,14 @@ Category | Problem | Solution
 **Arrays** | [Cyclic Rotation][02-01] | [100% TS; 100% C][02-01-solution]
 || [Odd Occurences In Array][02-02] | [100% TS; 100% C; 100% Performance][02-02-solution]
 **Time Complexity** | [Frog Jump][03-01] | [100% TS; 100% C; 100% P][03-01-solution]
-| [Permutation Missing Element][03-02] | [100% TS; 100% C; 100% P][03-02-solution]
-| [Tape Equilibrium][03-03] | [100% TS; 100% C; 100% P][03-03-solution]
+|| [Permutation Missing Element][03-02] | [100% TS; 100% C; 100% P][03-02-solution]
+|| [Tape Equilibrium][03-03] | [100% TS; 100% C; 100% P][03-03-solution]
 **Counting Elements** | [Perm Check][04-01] | [100% TS; 100% C; 100% P][04-01-solution]
- | [Frog River One][04-02] | [100% TS; 100% C; 100% P][04-02-solution]
- | [Max Counters][04-03] | [100% TS; 100% C; 100% P][04-03-solution]
-| [Missing Integer][04-04] | [100% TS; 100% C; 100% P][04-04-solution]
+|| [Frog River One][04-02] | [100% TS; 100% C; 100% P][04-02-solution]
+|| [Max Counters][04-03] | [100% TS; 100% C; 100% P][04-03-solution]
+|| [Missing Integer][04-04] | [100% TS; 100% C; 100% P][04-04-solution]
 **Prefix Sums** | [Passing Cars][05-01] | [100% TS; 100% C; 100% P][05-01-solution]
- | [Count Div][05-02] | [100% TS; 100% C; 100% P][05-02-solution]
+|| [Count Div][05-02] | [100% TS; 100% C; 100% P][05-02-solution]
 
 
 [01-01]:https://app.codility.com/programmers/lessons/1-iterations/binary_gap/
